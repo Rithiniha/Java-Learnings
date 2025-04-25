@@ -6,9 +6,9 @@ public class Substring {
 		
 		//substring
 		
-		String str = "Java programming";
-		System.out.println(str.substring(3));
-		System.out.println(str.substring(3,6));
+		String str = "Java programming"; 
+		System.out.println(str.substring (3));
+		System.out.println(str.substring (3,6));
 		
 	
 	}
