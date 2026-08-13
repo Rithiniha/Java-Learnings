@@ -5,7 +5,7 @@ class Student{   //class
 	int rollnum = 26;
 	String dept = "SS";
 	
-	void displayData() {  //method
+	void displayData() {  //method 
 		System.out.println("My name is : "+name);
 		System.out.println("My rollnum is : "+rollnum);
 		System.out.println("My dept is : "+dept);
