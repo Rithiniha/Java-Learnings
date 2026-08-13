@@ -1,7 +1,7 @@
 package classandobject;
 import java.util.*;
 class Student{   //class
-	String name = "Rithu";
+	String name = "Rithu"; //class variables
 	int rollnum = 26;
 	String dept = "SS";
 	
