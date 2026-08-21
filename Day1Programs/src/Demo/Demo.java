@@ -1,6 +1,6 @@
 package Demo;
 import java.util.*;
-public class Demo {
+public class Demo { 
 	public static void main(String[] args) {
 		
 		//User input using scanner class
